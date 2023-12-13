@@ -1,0 +1,1 @@
+class GoogleSignInNullAccountError implements Exception {}
